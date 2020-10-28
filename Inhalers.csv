@@ -1,271 +1,500 @@
-id,is_generic,name,Type,type
-0301011R0AAAQAQ,TRUE,Salbutamol 200micrograms/dose dry powder inhaler,Accuhaler,product format
-0301011U0AAAEAE,TRUE,Salmeterol 50micrograms/dose dry powder inhaler,Accuhaler,product format
-0301011U0BBAEAE,FALSE,Serevent 50micrograms/dose Accuhaler,Accuhaler,product format
-0301011R0BEAHAQ,FALSE,Ventolin 200micrograms/dose Accuhaler,accuhaler,product format
-0301020I0BBAIAI,FALSE,Atrovent 40microgram Aerocaps,Aerocaps,product format
-0301020I0BBAHAH,FALSE,Atrovent 40microgram Aerocaps with Aerohaler,Aerocaps,product format
-0301011R0BKADAD,FALSE,Aerolin 100micrograms/dose Autohaler,Autohaler,product format
-0301011R0BMABBU,FALSE,Airomir 100micrograms/dose Autohaler,Autohaler,product format
-0301020I0BBAGAG,FALSE,Atrovent 20micrograms/dose Autohaler,Autohaler,product format
-0301040M0BBACAC,FALSE,Duovent Autohaler,Autohaler,product format
-0301040M0BBAAAA,FALSE,Duovent inhaler,Autohaler,product format
-0301020P0BBABAB,FALSE,Oxivent 100micrograms/dose Autohaler,Autohaler,product format
-0301011X0AAAAAA,TRUE,Indacaterol 150microgram inhalation pdr caps with device,Breezhaler,product format
-0301011X0AAABAB,TRUE,Indacaterol 300microgram inhalation pdr caps with device,Breezhaler,product format
-0301040Y0AAAAAA,TRUE,Indacaterol 85microg/Glycopyrronium brom 54microg/dose,Breezhaler,product format
-0301011X0BBAAAA,FALSE,Onbrez Breezhaler 150microgram inhalation pdr caps with dev,Breezhaler,product format
-0301011X0BBABAB,FALSE,Onbrez Breezhaler 300microgram inhalation pdr caps with dev,Breezhaler,product format
-0301020S0BBAAAA,FALSE,Seebri Breezhaler 44microgram inhalation pdr caps with dev,Breezhaler,product format
-0301040Y0BBAAAA,FALSE,Ultibro Breezhaler 85microg/43microg pdr caps with dev,Breezhaler,product format
-0301011R0BJABAF,FALSE,Asmasal 95micrograms/dose Clickhaler,Clickhaler,product format
-0301011R0BPACAV,FALSE,Salbutamol 200 Cyclocaps,Cyclocaps,product format
-0301011R0BPADAW,FALSE,Salbutamol 400 Cyclocaps,Cyclocaps,product format
-0301011R0AAAJAJ,TRUE,Salbutamol 400microgram inhalation pdr blist with device,Cyclocaps,product format
-0301011R0AAALAL,TRUE,Salbutamol 400microgram inhalation powder blisters,Cyclocaps,product format
-0301011R0AAAWAW,TRUE,Salbutamol 400microgram inhalation powder capsules,Cyclocaps,product format
-0301011R0AAAIAI,TRUE,Salbutamol 200microgram inhalation pdr blist with device,Diskhaler,product format
-0301011R0AAAKAK,TRUE,Salbutamol 200microgram inhalation powder blisters,Diskhaler,product format
-0301011R0AAAVAV,TRUE,Salbutamol 200microgram inhalation powder capsules,Diskhaler,product format
-0301011U0AAAAAA,TRUE,Salmeterol 50microgram inhalation pdr blist with device,Diskhaler,product format
-0301011U0AAABAB,TRUE,Salmeterol 50microgram inhalation powder blisters,Diskhaler,product format
-0301011U0BBABAB,FALSE,Serevent 50microgram disks,Diskhaler,product format
-0301011U0BBAAAA,FALSE,Serevent 50microgram disks with Diskhaler,Diskhaler,product format
-0301011R0BLABAK,FALSE,Ventodisks 200microgram,Diskhaler,product format
-0301011R0BLAAAI,FALSE,Ventodisks 200microgram with Diskhaler,Diskhaler,product format
-0301011R0BLADAL,FALSE,Ventodisks 400microgram,Diskhaler,product format
-0301011R0BLACAJ,FALSE,Ventodisks 400microgram with Diskhaler,Diskhaler,product format
-0301011R0BIAGBU,FALSE,Salamol 100micrograms/dose Easi-Breathe inhaler,Easi-breathe,product format
-0301011R0AAADAD,TRUE,Salbutamol 100micrograms/dose breath actuated inhaler,Easi-breathe,product format
-0301011R0AABUBU,TRUE,Salbutamol 100micrograms/dose breath actuated inh CFC free,Easi-breathe,product format
-0301011R0BWAABZ,FALSE,Easyhaler Salbutamol sulfate 100micrograms/dose dry pdr inh,Easyhaler,product format
-0301011R0BWABAQ,FALSE,Easyhaler Salbutamol sulfate 200micrograms/dose dry pdr inh,Easyhaler,product format
-0301011E0BEAAAC,FALSE,Formoterol Easyhaler 12micrograms/dose dry powder inhaler,Easyhaler,product format
-0301011R0AABZBZ,TRUE,Salbutamol 100micrograms/dose dry powder inhaler,Easyhaler,product format
-0301011R0AAAFAF,TRUE,Salbutamol 95micrograms/dose dry powder inhaler,Easyhaler,product format
-0301040W0AAAAAA,TRUE,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,Ellipta,product format
-0301011ABBBAAA0,FALSE,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,Ellipta,product format
-0301020T0AAAAAA,TRUE,Umeclidinium bromide 65micrograms/dose dry powder inhaler,Ellipta,product format
-0301040W0BBAAAA,FALSE,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,Ellipta,product format
-0301020S0AAAAAA,TRUE,Glycopyrronium bromide 55microg inhalation pdr caps with dev,Ellipta,product format
-0301020T0BBAAAA,FALSE,Incruse Ellipta 55micrograms/dose dry powder inhaler,Ellipta,product format
-0301011E0BBAAAA,FALSE,Foradil 12microgram inhalation powder capsules with device,Foradil,product format
-0301011E0AAAAAA,TRUE,Formoterol 12microgram inhalation pdr caps with device,Foradil,product format
-0301040V0AAAAAA,TRUE,Aclidinium brom 396mcg/dose / Formoterol 11.8mcg/dose DP inh,Genuair,product format
-0301020R0AAAAAA,TRUE,Aclidinium bromide 375micrograms/dose dry powder inhaler,Genuair,product format
-0301040V0BBAAAA,FALSE,Duaklir 340micrograms/dose / 12micrograms/dose Genuair,Genuair,product format
-0301020R0BBAAAA,FALSE,Eklira 322micrograms/dose Genuair,Genuair,product format
-0301020Q0BBAAAA,FALSE,Spiriva 18microgram inhalation pdr caps with HandiHaler,Handihaler,product format
-0301020Q0BBABAB,FALSE,Spiriva 18microgram inhalation powder capsules,Handihaler,product format
-0301020Q0AAAAAA,TRUE,Tiotropium bromide 18microgram inhalation pdr caps with dev,Handihaler,product format
-0301020Q0AAABAB,TRUE,Tiotropium bromide 18microgram inhalation powder capsules,Handihaler,product format
-0301011R0BMAAAP,FALSE,Airomir 100micrograms/dose inhaler,MDI,product format
-0301011R0BZAAAP,FALSE,AirSalb 100micrograms/dose inhaler CFC free,MDI,product format
-0301011R0BYAAAP,FALSE,Asmavent 100micrograms/dose inhaler CFC free,MDI,product format
-0301011E0BDAAAD,FALSE,Atimos Modulite 12micrograms/dose inhaler,MDI,product format
-0301020I0BBAAAA,FALSE,Atrovent 20micrograms/dose inhaler,MDI,product format
-0301020I0BBAJAN,FALSE,Atrovent 20micrograms/dose inhaler CFC free,MDI,product format
-0301020I0BBADAD,FALSE,Atrovent Forte 40micrograms/dose inhaler,MDI,product format
-0301040M0BCABAD,FALSE,Berodual N inhaler,MDI,product format
-0301011F0BBACAA,FALSE,Berotec 200micrograms/dose inhaler,MDI,product format
-0301011V0BBADAA,FALSE,Bricanyl 250micrograms/dose inhaler,MDI,product format
-0301011V0BBAFAF,FALSE,Bricanyl 250micrograms/dose spacer inhaler,MDI,product format
-0301040R0BBAAAA,FALSE,Combivent inhaler,MDI,product format
-0301040M0AAAAAA,TRUE,Fenoterol 100microg/dose / Ipratropium 40microg/dose inh,MDI,product format
-0301040M0AAADAD,TRUE,Fenoterol 50microg/Ipratropium brom 20microg/dose CFC free,MDI,product format
-0301011E0AAADAD,TRUE,Formoterol 12micrograms/dose inhaler CFC free,MDI,product format
-0301020I0BIAAAN,FALSE,Inhalvent 20micrograms/dose inhaler,MDI,product format
-0301020I0AAAAAA,TRUE,Ipratropium bromide 20micrograms/dose inhaler,MDI,product format
-0301020I0AAANAN,TRUE,Ipratropium bromide 20micrograms/dose inhaler CFC free,MDI,product format
-0301020I0AAADAD,TRUE,Ipratropium bromide 40micrograms/dose inhaler,MDI,product format
-0301020I0BJAAAN,FALSE,Ipravent 20micrograms/dose inhaler CFC free,MDI,product format
-0301011U0BEAAAH,FALSE,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),MDI,product format
-0301011U0BDAAAH,FALSE,Neovent 25micrograms/dose inhaler CFC free (Teva),MDI,product format
-0301020P0AAAAAA,TRUE,Oxitropium bromide 100micrograms/dose inhaler,MDI,product format
-0301020P0BBAAAA,FALSE,Oxivent 100micrograms/dose inhaler,MDI,product format
-0301012A0BCABAB,FALSE,Primatene Mist 220micrograms/dose inhaler,MDI,product format
-0301012A0BCACAC,FALSE,Primatene Mist 220micrograms/dose inhaler refill,MDI,product format
-0301011R0BTAABX,FALSE,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,MDI,product format
-0301011R0BTAAAQ,FALSE,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,MDI,product format
-0301011R0BIAHAP,FALSE,Salamol 100micrograms/dose inhaler CFC free (Arrow),MDI,product format
-0301011R0BIAFAP,FALSE,Salamol 100micrograms/dose inhaler CFC free (Teva),MDI,product format
-0301011R0BDAEAP,FALSE,Salbulin 100micrograms/dose inhaler,MDI,product format
-0301040R0AAAAAA,TRUE,Salbutamol 100microg/dose / Ipratropium 20microg/dose inh,MDI,product format
-0301011R0AAAAAA,TRUE,Salbutamol 100micrograms/dose inhaler,MDI,product format
-0301011R0AAAPAP,TRUE,Salbutamol 100micrograms/dose inhaler CFC free,MDI,product format
-0301011U0AAACAC,TRUE,Salmeterol 25micrograms/dose inhaler,MDI,product format
-0301011U0AAAHAH,TRUE,Salmeterol 25micrograms/dose inhaler CFC free,MDI,product format
-0301011U0BBAFAH,FALSE,Serevent 25micrograms/dose Evohaler,MDI,product format
-0301011U0BBACAC,FALSE,Serevent 25micrograms/dose inhaler,MDI,product format
-0301011U0BGAAAH,FALSE,Soltel 25micrograms/dose inhaler CFC free,MDI,product format
-0301011V0AAAAAA,TRUE,Terbutaline 250micrograms/dose inhaler,MDI,product format
-0301011V0AAAFAF,TRUE,Terbutaline 250micrograms/dose inhaler with spacer,MDI,product format
-0301011R0BEAIAP,FALSE,Ventolin 100micrograms/dose Evohaler,MDI,product format
-0301011U0BFAAAH,FALSE,Vertine 25micrograms/dose inhaler CFC free,MDI,product format
-0301012A0AAABAB,TRUE,Adrenaline (base) 220micrograms/dose inhaler,Non-inhaler,product format
-0301012A0AAACAC,TRUE,Adrenaline (base) 220micrograms/dose inhaler refill,Non-inhaler,product format
-0301012S0BBABAG,FALSE,Alupent 10mg/5ml syrup,Non-inhaler,product format
-0301012S0BBAAAF,FALSE,Alupent 20mg tablets,Non-inhaler,product format
-0301030B0AAANAN,TRUE,Aminophylline 100mg tablets,Non-inhaler,product format
-0301030B0AAARAR,TRUE,Aminophylline 225mg modified-release tablets,Non-inhaler,product format
-0301030B0BCAAA9,FALSE,Aminophylline 250mg/10ml inj Minijet pre-filled syringes,Non-inhaler,product format
-0301030B0AAA9A9,TRUE,Aminophylline 250mg/10ml inj pre-filled syringes,Non-inhaler,product format
-0301030B0AAABAB,TRUE,Aminophylline 250mg/10ml solution for injection ampoules,Non-inhaler,product format
-0301030B0AAAMAM,TRUE,Aminophylline 360mg suppositories,Non-inhaler,product format
-0301030C0AAADAD,TRUE,Aminophylline hydrate 100mg modified-release tablets,Non-inhaler,product format
-0301030C0AAAEAE,TRUE,Aminophylline hydrate 225mg modified-release tablets,Non-inhaler,product format
-0301030C0AAACAC,TRUE,Aminophylline hydrate 350mg modified-release tablets,Non-inhaler,product format
-0301030B0BDAAAR,FALSE,Amnivent-225 SR tablets,Non-inhaler,product format
-0301020I0BBAFAF,FALSE,Atrovent 250micrograms/1ml nebuliser liquid UDVs,Non-inhaler,product format
-0301020I0BBACAC,FALSE,Atrovent 500micrograms/2ml nebuliser liquid UDVs,Non-inhaler,product format
-0301011B0BBAAAA,FALSE,Bambec 10mg tablets,Non-inhaler,product format
-0301011B0BBABAB,FALSE,Bambec 20mg tablets,Non-inhaler,product format
-0301011B0AAAAAA,TRUE,Bambuterol 10mg tablets,Non-inhaler,product format
-0301011B0AAABAB,TRUE,Bambuterol 20mg tablets,Non-inhaler,product format
-0301011V0BBAQAX,FALSE,Bricanyl 10mg/ml respirator solution,Non-inhaler,product format
-0301011V0BBABAG,FALSE,Bricanyl 1.5mg/5ml syrup,Non-inhaler,product format
-0301011V0BBAJAK,FALSE,Bricanyl 2.5mg/5ml solution for injection ampoules,Non-inhaler,product format
-0301011V0BBACAB,FALSE,Bricanyl 500micrograms/1ml solution for injection ampoules,Non-inhaler,product format
-0301011V0BBALAD,FALSE,Bricanyl 5mg/2ml Respules,Non-inhaler,product format
-0301011V0BBAAAH,FALSE,Bricanyl 5mg tablets,Non-inhaler,product format
-0301011V0BBANAI,FALSE,Bricanyl SA 7.5mg tablets,Non-inhaler,product format
-0301012F0BBAAAL,FALSE,CAM Mixture,Non-inhaler,product format
-0301040R0BFAAAB,FALSE,Combiprasal 0.5mg/2.5mg neb soln 2.5ml unit dose vials,Non-inhaler,product format
-0301040R0BBABAB,FALSE,Combivent nebuliser liquid 2.5ml UDVs,Non-inhaler,product format
-0301040M0BBABAB,FALSE,Duovent UDVs nebuliser liquid 4ml,Non-inhaler,product format
-0301012F0AAADAD,TRUE,Ephedrine 15mg/5ml elixir,Non-inhaler,product format
-0301012F0AAAUAU,TRUE,Ephedrine 15mg/5ml oral suspension,Non-inhaler,product format
-0301012F0AAAVAV,TRUE,Ephedrine 4mg/5ml oral solution,Non-inhaler,product format
-0301012F0AAALAL,TRUE,Ephedrine 4mg/5ml oral solution sugar free,Non-inhaler,product format
-0301012F0AAAAAA,TRUE,Ephedrine hydrochloride 15mg tablets,Non-inhaler,product format
-0301012F0AAABAB,TRUE,Ephedrine hydrochloride 30mg tablets,Non-inhaler,product format
-0301040M0AAACAC,TRUE,Fenoterol 100microg/Ipratropium bromide 40microg/dose BA inh,Non-inhaler,product format
-0301040M0AAABAB,TRUE,Fenoterol 1.25mg/Ipratropium 500microg/4ml neb liq ud vials,Non-inhaler,product format
-0301011F0AAAAAA,TRUE,Fenoterol 200micrograms/dose inhaler,Non-inhaler,product format
-0301040J0BBAAAA,FALSE,Franol Plus tablets,Non-inhaler,product format
-0301040K0BFABAG,FALSE,Franol tablets,Non-inhaler,product format
-0301040R0BCAAAB,FALSE,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials,Non-inhaler,product format
-0301020I0BEAAAF,FALSE,Ipratropium 250micrograms/1ml neb liq Steri-Neb ud vials,Non-inhaler,product format
-0301020I0BHAAAF,FALSE,Ipratropium 250micrograms/1ml neb liq ud Steripoule vials,Non-inhaler,product format
-0301020I0BEABAC,FALSE,Ipratropium 500micrograms/2ml neb liq Steri-Neb ud vials,Non-inhaler,product format
-0301020I0BHABAC,FALSE,Ipratropium 500micrograms/2ml neb liq ud Steripoule vials,Non-inhaler,product format
-0301020I0AAAGAG,TRUE,Ipratropium bromide 20micrograms/dose BA inhaler,Non-inhaler,product format
-0301020I0AAAFAF,TRUE,Ipratropium bromide 250micrograms/1ml neb liq ud vials,Non-inhaler,product format
-0301020I0AAAHAH,TRUE,Ipratropium bromide 40microgram inhalation pdr caps with dev,Non-inhaler,product format
-0301020I0AAAIAI,TRUE,Ipratropium bromide 40microgram inhalation powder capsules,Non-inhaler,product format
-0301020I0AAACAC,TRUE,Ipratropium bromide 500micrograms/2ml neb liq ud vials,Non-inhaler,product format
-0301011R0BGABAX,FALSE,Maxivent 2.5mg/2.5ml neb liq unit dose Steripoule vials,Non-inhaler,product format
-0301011R0BGACBD,FALSE,Maxivent 5mg/2.5ml neb liq unit dose Steripoule vials,Non-inhaler,product format
-0301011V0BDABAG,FALSE,Monovent 1.5mg/5ml syrup,Non-inhaler,product format
-0301030B0BFABAR,FALSE,Norphyllin SR 225mg tablets,Non-inhaler,product format
-0301030S0BDAAAJ,FALSE,Nuelin 125mg tablets,Non-inhaler,product format
-0301030S0BDABAG,FALSE,Nuelin 60mg/5ml liquid,Non-inhaler,product format
-0301030S0BDAEAL,FALSE,Nuelin SA 175mg tablets,Non-inhaler,product format
-0301030S0BDAFAN,FALSE,Nuelin SA 250 tablets,Non-inhaler,product format
-0301012S0AAAGAG,TRUE,Orciprenaline 10mg/5ml oral solution sugar free,Non-inhaler,product format
-0301012S0AAAFAF,TRUE,Orciprenaline 20mg tablets,Non-inhaler,product format
-0301030C0BCAAAE,FALSE,Phyllocontin Continus 225mg tablets,Non-inhaler,product format
-0301030C0BCABAC,FALSE,Phyllocontin Forte Continus 350mg tablets,Non-inhaler,product format
-0301030C0BCACAD,FALSE,Phyllocontin Paediatric Continus 100mg tablets,Non-inhaler,product format
-0301020I0BGAAAF,FALSE,Respontin 250micrograms/1ml Nebules,Non-inhaler,product format
-0301020I0BGABAC,FALSE,Respontin 500micrograms/2ml Nebules,Non-inhaler,product format
-0301011R0BIADAX,FALSE,Salamol 2.5mg/2.5ml neb liq Steri-Neb unit dose vials,Non-inhaler,product format
-0301011R0BIAEBD,FALSE,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials,Non-inhaler,product format
-0301011R0BUAABG,FALSE,Salapin 2mg/5ml syrup,Non-inhaler,product format
-0301011R0BVAAAX,FALSE,Salbutamol 2.5mg/2.5ml neb liq unit dose Steripoule vials,Non-inhaler,product format
-0301011R0AAAXAX,TRUE,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials,Non-inhaler,product format
-0301040R0AAACAC,TRUE,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq amp,Non-inhaler,product format
-0301040R0AAABAB,TRUE,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq vials,Non-inhaler,product format
-0301011R0AABGBG,TRUE,Salbutamol 2mg/5ml oral solution sugar free,Non-inhaler,product format
-0301011R0AAAZAZ,TRUE,Salbutamol 2mg tablets,Non-inhaler,product format
-0301011R0AABMBM,TRUE,Salbutamol 4mg modified-release capsules,Non-inhaler,product format
-0301011R0AABEBE,TRUE,Salbutamol 4mg modified-release tablets,Non-inhaler,product format
-0301011R0AABABA,TRUE,Salbutamol 4mg tablets,Non-inhaler,product format
-0301011R0AAAUAU,TRUE,Salbutamol 500micrograms/1ml solution for injection ampoules,Non-inhaler,product format
-0301011R0BVABBD,FALSE,Salbutamol 5mg/2.5ml neb liq unit dose Steripoule vials,Non-inhaler,product format
-0301011R0AABDBD,TRUE,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials,Non-inhaler,product format
-0301011R0AABVBV,TRUE,Salbutamol 5mg/50ml solution for infusion vials,Non-inhaler,product format
-0301011R0AABCBC,TRUE,Salbutamol 5mg/5ml solution for infusion ampoules,Non-inhaler,product format
-0301011R0AABBBB,TRUE,Salbutamol 5mg/ml nebuliser liquid,Non-inhaler,product format
-0301011R0AABPBP,TRUE,Salbutamol 8mg modified-release capsules,Non-inhaler,product format
-0301011R0AABFBF,TRUE,Salbutamol 8mg modified-release tablets,Non-inhaler,product format
-0301040R0BEAAAC,FALSE,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml amp (Actavis),Non-inhaler,product format
-0301040R0BDAAAC,FALSE,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml ampoules (Arrow),Non-inhaler,product format
-0301030S0BHABAC,FALSE,Slo-Phyllin 125mg capsules,Non-inhaler,product format
-0301030S0BHACAD,FALSE,Slo-Phyllin 250mg capsules,Non-inhaler,product format
-0301030S0BHAAAB,FALSE,Slo-Phyllin 60mg capsules,Non-inhaler,product format
-0301011V0AAAXAX,TRUE,Terbutaline 10mg/ml nebuliser liquid,Non-inhaler,product format
-0301011V0AAAGAG,TRUE,Terbutaline 1.5mg/5ml oral solution sugar free,Non-inhaler,product format
-0301011V0AAAKAK,TRUE,Terbutaline 2.5mg/5ml solution for injection ampoules,Non-inhaler,product format
-0301011V0AAABAB,TRUE,Terbutaline 500micrograms/1ml inj ampoules,Non-inhaler,product format
-0301011V0AAADAD,TRUE,Terbutaline 5mg/2ml nebuliser liquid unit dose vials,Non-inhaler,product format
-0301011V0AAAHAH,TRUE,Terbutaline 5mg tablets,Non-inhaler,product format
-0301011V0AABABA,TRUE,Terbutaline 7.5mg/15ml inf pre-filled syringes,Non-inhaler,product format
-0301011V0AAAIAI,TRUE,Terbutaline 7.5mg modified-release tablets,Non-inhaler,product format
-0301030S0BIAAAM,FALSE,Theo-Dur 200mg tablets,Non-inhaler,product format
-0301030S0BIABAP,FALSE,Theo-Dur 300mg tablets,Non-inhaler,product format
-0301030S0AAAHAH,TRUE,Theophylline 10mg/5ml oral liquid,Non-inhaler,product format
-0301030S0AABFBF,TRUE,Theophylline 120mg/5ml oral liquid,Non-inhaler,product format
-0301040K0AAAGAG,TRUE,Theophylline 120mg / Ephedrine hydrochloride 11mg tablets,Non-inhaler,product format
-0301040J0AAAAAA,TRUE,Theophylline 120mg / Ephedrine sulfate 15mg tablets,Non-inhaler,product format
-0301030S0AABBBB,TRUE,Theophylline 125mg/5ml oral suspension,Non-inhaler,product format
-0301030S0AAACAC,TRUE,Theophylline 125mg modified-release capsules,Non-inhaler,product format
-0301030S0AAAJAJ,TRUE,Theophylline 125mg tablets,Non-inhaler,product format
-0301030S0AABGBG,TRUE,Theophylline 175mg/5ml oral liquid,Non-inhaler,product format
-0301030S0AAALAL,TRUE,Theophylline 175mg modified-release tablets,Non-inhaler,product format
-0301030S0AAAMAM,TRUE,Theophylline 200mg modified-release tablets,Non-inhaler,product format
-0301030S0AABEBE,TRUE,Theophylline 250mg/5ml oral liquid,Non-inhaler,product format
-0301030S0AAADAD,TRUE,Theophylline 250mg modified-release capsules,Non-inhaler,product format
-0301030S0AAANAN,TRUE,Theophylline 250mg modified-release tablets,Non-inhaler,product format
-0301030S0AAAPAP,TRUE,Theophylline 300mg modified-release tablets,Non-inhaler,product format
-0301030S0AAA3A3,TRUE,Theophylline 300mg suppositories,Non-inhaler,product format
-0301030S0AAARAR,TRUE,Theophylline 400mg modified-release tablets,Non-inhaler,product format
-0301030S0AABKBK,TRUE,Theophylline 50mg/5ml oral solution,Non-inhaler,product format
-0301030S0AABLBL,TRUE,Theophylline 50mg/5ml oral suspension,Non-inhaler,product format
-0301030S0AABHBH,TRUE,Theophylline 5mg/5ml oral solution,Non-inhaler,product format
-0301030S0AAAGAG,TRUE,Theophylline 60mg/5ml oral liquid,Non-inhaler,product format
-0301030S0AAABAB,TRUE,Theophylline 60mg modified-release capsules,Non-inhaler,product format
-0301030S0AABJBJ,TRUE,Theophylline 75mg/5ml oral suspension,Non-inhaler,product format
-0301020I0BFAAAF,FALSE,Tropiovent 250micrograms/1ml neb liq ud Steripoule vials,Non-inhaler,product format
-0301020I0BFABAC,FALSE,Tropiovent 500micrograms/2ml neb liq ud Steripoule vials,Non-inhaler,product format
-0301030S0BKABAM,FALSE,Uniphyllin Continus 200mg tablets,Non-inhaler,product format
-0301030S0BKACAP,FALSE,Uniphyllin Continus 300mg tablets,Non-inhaler,product format
-0301030S0BKAAAR,FALSE,Uniphyllin Continus 400mg tablets,Non-inhaler,product format
-0301011R0BSAABM,FALSE,Ventmax SR 4mg capsules,Non-inhaler,product format
-0301011R0BSABBP,FALSE,Ventmax SR 8mg capsules,Non-inhaler,product format
-0301011R0BEANAX,FALSE,Ventolin 2.5mg Nebules,Non-inhaler,product format
-0301011R0BEAMBG,FALSE,Ventolin 2mg/5ml syrup,Non-inhaler,product format
-0301011R0BEATAU,FALSE,Ventolin 500micrograms/1ml solution for injection ampoules,Non-inhaler,product format
-0301011R0BEAUBC,FALSE,Ventolin 5mg/5ml solution for infusion ampoules,Non-inhaler,product format
-0301011R0BEARBB,FALSE,Ventolin 5mg/ml respirator solution,Non-inhaler,product format
-0301011R0BEAXBD,FALSE,Ventolin 5mg Nebules,Non-inhaler,product format
-0301011R0BNAABE,FALSE,Volmax 4mg modified-release tablets,Non-inhaler,product format
-0301011R0BNABBF,FALSE,Volmax 8mg modified-release tablets,Non-inhaler,product format
-0301011R0BXABCC,FALSE,Salbulin Novolizer 100micrograms/dose inhalation pdr refill,Novolizer,product format
-0301011R0BXAACB,FALSE,Salbulin Novolizer 100micrograms/dose inhalation powder,Novolizer,product format
-0301011R0AACBCB,TRUE,Salbutamol 100microg/dose dry pdr inhalation cart with dev,Novolizer,product format
-0301011R0AACCCC,TRUE,Salbutamol 100micrograms/dose dry pdr inhalation cartridge,Novolizer,product format
-0301011Z0AAAAAA,TRUE,Olodaterol 2.5microg/dose soln for inhalation CFCfree,Respimat,product format
-0301011Z0AAABAB,TRUE,Olodaterol 2.5micrograms/dose inhalation soln cart CFC free,Respimat,product format
-0301040X0BBAAAA,FALSE,Spiolto Respimat 2.5microg/dose/2.5microg/dose soln,Respimat,product format
-0301040X0BBABAB,FALSE,Spiolto Respimat 2.5microg/dose / 2.5microg/dose soln refill,Respimat,product format
-0301020Q0BBACAC,FALSE,Spiriva Respimat 2.5microg/dose inhalation soln,Respimat,product format
-0301020Q0BBADAE,FALSE,Spiriva Respimat 2.5microg/dose inhalation soln refill cart,Respimat,product format
-0301011Z0BBAAAA,FALSE,Striverdi Respimat 2.5microg/dose inhalation soln,Respimat,product format
-0301011Z0BBABAB,FALSE,Striverdi Respimat 2.5microg/dose inhalation soln refill,Respimat,product format
-0301020Q0AAACAC,TRUE,Tiotropium brom 2.5microg/dose soln for inhalation CFCfree,Respimat,product format
-0301040X0AAABAB,TRUE,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln,Respimat,product format
-0301040X0AAAAAA,TRUE,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln&dev,Respimat,product format
-0301020Q0AAAEAE,TRUE,Tiotropium bromide 2.5micrograms/dose inhalation soln cart,Respimat,product format
-0301040X0BCAAAA,FALSE,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln,Respimat,product format
-0301011R0BEAPAV,FALSE,Ventolin 200microgram Rotacaps,Rotahaler,product format
-0301011R0BEAQAW,FALSE,Ventolin 400microgram Rotacaps,Rotahaler,product format
-0301011V0BBARBB,FALSE,Bricanyl 500micrograms/dose Turbohaler,Turbohaler,product format
-0301011E0AAACAC,TRUE,Formoterol 12micrograms/dose dry powder inhaler,Turbohaler,product format
-0301011E0AAABAB,TRUE,Formoterol 6micrograms/dose dry powder inhaler,Turbohaler,product format
-0301011E0BCABAC,FALSE,Oxis 12 Turbohaler,Turbohaler,product format
-0301011E0BCAAAB,FALSE,Oxis 6 Turbohaler,Turbohaler,product format
-0301020P0AAABAB,TRUE,Oxitropium bromide 100micrograms/dose BA inhaler,Turbohaler,product format
-0301011V0AABBBB,TRUE,Terbutaline 500micrograms/dose dry powder inhaler,Turbohaler,product format
-0301020Q0BCAAAD,FALSE,Braltus 10microgram inhalation pdr caps with Zonda inhaler,Zonda,product format
-0301020Q0AAADAD,TRUE,Tiotropium bromide 10microgram inhalation pdr caps with dev,Zonda,product format
+id,is_generic,name,Type,type,Carbon per device
+0301011R0AAAQAQ,TRUE,Salbutamol 200micrograms/dose dry powder inhaler,Accuhaler,product format,
+0301011U0AAAEAE,TRUE,Salmeterol 50micrograms/dose dry powder inhaler,Accuhaler,product format,
+0301012A0AAABAB,TRUE,Adrenaline (base) 220micrograms/dose inhaler,Non-inhaler,product format,0
+0301012A0AAACAC,TRUE,Adrenaline (base) 220micrograms/dose inhaler refill,Non-inhaler,product format,0
+0301011U0BBAEAE,FALSE,Serevent 50micrograms/dose Accuhaler,Accuhaler,product format,
+0301011R0BEAHAQ,FALSE,Ventolin 200micrograms/dose Accuhaler,accuhaler,product format,
+0301020I0BBAIAI,FALSE,Atrovent 40microgram Aerocaps,Aerocaps,product format,1
+0301020I0BBAHAH,FALSE,Atrovent 40microgram Aerocaps with Aerohaler,Aerocaps,product format,1
+0301012S0BBABAG,FALSE,Alupent 10mg/5ml syrup,Non-inhaler,product format,0
+0301012S0BBAAAF,FALSE,Alupent 20mg tablets,Non-inhaler,product format,0
+0301030B0AAANAN,TRUE,Aminophylline 100mg tablets,Non-inhaler,product format,0
+0301030B0AAARAR,TRUE,Aminophylline 225mg modified-release tablets,Non-inhaler,product format,0
+0301030B0BCAAA9,FALSE,Aminophylline 250mg/10ml inj Minijet pre-filled syringes,Non-inhaler,product format,0
+0301030B0AAA9A9,TRUE,Aminophylline 250mg/10ml inj pre-filled syringes,Non-inhaler,product format,0
+0301030B0AAABAB,TRUE,Aminophylline 250mg/10ml solution for injection ampoules,Non-inhaler,product format,0
+0301030B0AAAMAM,TRUE,Aminophylline 360mg suppositories,Non-inhaler,product format,0
+0301030C0AAADAD,TRUE,Aminophylline hydrate 100mg modified-release tablets,Non-inhaler,product format,0
+0301030C0AAAEAE,TRUE,Aminophylline hydrate 225mg modified-release tablets,Non-inhaler,product format,0
+0301030C0AAACAC,TRUE,Aminophylline hydrate 350mg modified-release tablets,Non-inhaler,product format,0
+0301030B0BDAAAR,FALSE,Amnivent-225 SR tablets,Non-inhaler,product format,0
+0301011R0BKADAD,FALSE,Aerolin 100micrograms/dose Autohaler,Autohaler,product format,
+0301011R0BMABBU,FALSE,Airomir 100micrograms/dose Autohaler,Autohaler,product format,
+0301020I0BBAGAG,FALSE,Atrovent 20micrograms/dose Autohaler,Autohaler,product format,
+0301040M0BBACAC,FALSE,Duovent Autohaler,Autohaler,product format,
+0301040M0BBAAAA,FALSE,Duovent inhaler,Autohaler,product format,
+0301020P0BBABAB,FALSE,Oxivent 100micrograms/dose Autohaler,Autohaler,product format,
+0301011X0AAAAAA,TRUE,Indacaterol 150microgram inhalation pdr caps with device,Breezhaler,product format,1
+0301020I0BBAFAF,FALSE,Atrovent 250micrograms/1ml nebuliser liquid UDVs,Non-inhaler,product format,0
+0301011X0AAABAB,TRUE,Indacaterol 300microgram inhalation pdr caps with device,Breezhaler,product format,1
+0301040Y0AAAAAA,TRUE,Indacaterol 85microg/Glycopyrronium brom 54microg/dose,Breezhaler,product format,1
+0301020I0BBACAC,FALSE,Atrovent 500micrograms/2ml nebuliser liquid UDVs,Non-inhaler,product format,0
+0301011X0BBAAAA,FALSE,Onbrez Breezhaler 150microgram inhalation pdr caps with dev,Breezhaler,product format,1
+0301011B0BBAAAA,FALSE,Bambec 10mg tablets,Non-inhaler,product format,0
+0301011B0BBABAB,FALSE,Bambec 20mg tablets,Non-inhaler,product format,0
+0301011B0AAAAAA,TRUE,Bambuterol 10mg tablets,Non-inhaler,product format,0
+0301011B0AAABAB,TRUE,Bambuterol 20mg tablets,Non-inhaler,product format,0
+0301011X0BBABAB,FALSE,Onbrez Breezhaler 300microgram inhalation pdr caps with dev,Breezhaler,product format,1
+0301020S0BBAAAA,FALSE,Seebri Breezhaler 44microgram inhalation pdr caps with dev,Breezhaler,product format,1
+0301040Y0BBAAAA,FALSE,Ultibro Breezhaler 85microg/43microg pdr caps with dev,Breezhaler,product format,1
+0301011V0BBABAG,FALSE,Bricanyl 1.5mg/5ml syrup,Non-inhaler,product format,0
+0301011V0BBAQAX,FALSE,Bricanyl 10mg/ml respirator solution,Non-inhaler,product format,0
+0301011V0BBAJAK,FALSE,Bricanyl 2.5mg/5ml solution for injection ampoules,Non-inhaler,product format,0
+0301011R0BJABAF,FALSE,Asmasal 95micrograms/dose Clickhaler,Clickhaler,product format,
+0301011R0BPACAV,FALSE,Salbutamol 200 Cyclocaps,Cyclocaps,product format,
+0301011V0BBACAB,FALSE,Bricanyl 500micrograms/1ml solution for injection ampoules,Non-inhaler,product format,0
+0301011R0BPADAW,FALSE,Salbutamol 400 Cyclocaps,Cyclocaps,product format,
+0301011V0BBAAAH,FALSE,Bricanyl 5mg tablets,Non-inhaler,product format,0
+0301011V0BBALAD,FALSE,Bricanyl 5mg/2ml Respules,Non-inhaler,product format,0
+0301011V0BBANAI,FALSE,Bricanyl SA 7.5mg tablets,Non-inhaler,product format,0
+0301012F0BBAAAL,FALSE,CAM Mixture,Non-inhaler,product format,0
+0301040R0BFAAAB,FALSE,Combiprasal 0.5mg/2.5mg neb soln 2.5ml unit dose vials,Non-inhaler,product format,0
+0301011R0AAAJAJ,TRUE,Salbutamol 400microgram inhalation pdr blist with device,Cyclocaps,product format,
+0301040R0BBABAB,FALSE,Combivent nebuliser liquid 2.5ml UDVs,Non-inhaler,product format,0
+0301011R0AAALAL,TRUE,Salbutamol 400microgram inhalation powder blisters,Cyclocaps,product format,
+0301011R0AAAWAW,TRUE,Salbutamol 400microgram inhalation powder capsules,Cyclocaps,product format,
+0301011R0AAAIAI,TRUE,Salbutamol 200microgram inhalation pdr blist with device,Diskhaler,product format,1
+0301040M0BBABAB,FALSE,Duovent UDVs nebuliser liquid 4ml,Non-inhaler,product format,0
+0301011R0AAAKAK,TRUE,Salbutamol 200microgram inhalation powder blisters,Diskhaler,product format,1
+0301011R0AAAVAV,TRUE,Salbutamol 200microgram inhalation powder capsules,Diskhaler,product format,1
+0301011U0AAAAAA,TRUE,Salmeterol 50microgram inhalation pdr blist with device,Diskhaler,product format,1
+0301012F0AAADAD,TRUE,Ephedrine 15mg/5ml elixir,Non-inhaler,product format,0
+0301012F0AAAUAU,TRUE,Ephedrine 15mg/5ml oral suspension,Non-inhaler,product format,0
+0301012F0AAAVAV,TRUE,Ephedrine 4mg/5ml oral solution,Non-inhaler,product format,0
+0301012F0AAALAL,TRUE,Ephedrine 4mg/5ml oral solution sugar free,Non-inhaler,product format,0
+0301012F0AAAAAA,TRUE,Ephedrine hydrochloride 15mg tablets,Non-inhaler,product format,0
+0301012F0AAABAB,TRUE,Ephedrine hydrochloride 30mg tablets,Non-inhaler,product format,0
+0301040M0AAABAB,TRUE,Fenoterol 1.25mg/Ipratropium 500microg/4ml neb liq ud vials,Non-inhaler,product format,0
+0301011U0AAABAB,TRUE,Salmeterol 50microgram inhalation powder blisters,Diskhaler,product format,1
+0301040M0AAACAC,TRUE,Fenoterol 100microg/Ipratropium bromide 40microg/dose BA inh,Non-inhaler,product format,0
+0301011F0AAAAAA,TRUE,Fenoterol 200micrograms/dose inhaler,Non-inhaler,product format,0
+0301011U0BBABAB,FALSE,Serevent 50microgram disks,Diskhaler,product format,1
+0301011U0BBAAAA,FALSE,Serevent 50microgram disks with Diskhaler,Diskhaler,product format,1
+0301011R0BLABAK,FALSE,Ventodisks 200microgram,Diskhaler,product format,1
+0301011R0BLAAAI,FALSE,Ventodisks 200microgram with Diskhaler,Diskhaler,product format,1
+0301011R0BLADAL,FALSE,Ventodisks 400microgram,Diskhaler,product format,1
+0301011R0BLACAJ,FALSE,Ventodisks 400microgram with Diskhaler,Diskhaler,product format,1
+0301011R0BIAGBU,FALSE,Salamol 100micrograms/dose Easi-Breathe inhaler,Easi-breathe,product format,10
+0301040J0BBAAAA,FALSE,Franol Plus tablets,Non-inhaler,product format,0
+0301040K0BFABAG,FALSE,Franol tablets,Non-inhaler,product format,0
+0301011R0AABUBU,TRUE,Salbutamol 100micrograms/dose breath actuated inh CFC free,Easi-breathe,product format,10
+0301011R0AAADAD,TRUE,Salbutamol 100micrograms/dose breath actuated inhaler,Easi-breathe,product format,10
+0301011R0BWAABZ,FALSE,Easyhaler Salbutamol sulfate 100micrograms/dose dry pdr inh,Easyhaler,product format,1
+0301011R0BWABAQ,FALSE,Easyhaler Salbutamol sulfate 200micrograms/dose dry pdr inh,Easyhaler,product format,1
+0301011E0BEAAAC,FALSE,Formoterol Easyhaler 12micrograms/dose dry powder inhaler,Easyhaler,product format,
+0301011R0AABZBZ,TRUE,Salbutamol 100micrograms/dose dry powder inhaler,Easyhaler,product format,0.5
+0301040R0BCAAAB,FALSE,Ipramol nebuliser solution 2.5ml Steri-Neb unit dose vials,Non-inhaler,product format,0
+0301020I0BEAAAF,FALSE,Ipratropium 250micrograms/1ml neb liq Steri-Neb ud vials,Non-inhaler,product format,0
+0301020I0BHAAAF,FALSE,Ipratropium 250micrograms/1ml neb liq ud Steripoule vials,Non-inhaler,product format,0
+0301020I0BEABAC,FALSE,Ipratropium 500micrograms/2ml neb liq Steri-Neb ud vials,Non-inhaler,product format,0
+0301020I0BHABAC,FALSE,Ipratropium 500micrograms/2ml neb liq ud Steripoule vials,Non-inhaler,product format,0
+0301020I0AAAGAG,TRUE,Ipratropium bromide 20micrograms/dose BA inhaler,Non-inhaler,product format,0
+0301011R0AAAFAF,TRUE,Salbutamol 95micrograms/dose dry powder inhaler,Easyhaler,product format,
+0301040W0BBAAAA,FALSE,Anoro Ellipta 55microg/dose / 22microg/dose dry pdr inh,Ellipta,product format,
+0301020I0AAAFAF,TRUE,Ipratropium bromide 250micrograms/1ml neb liq ud vials,Non-inhaler,product format,0
+0301020I0AAAHAH,TRUE,Ipratropium bromide 40microgram inhalation pdr caps with dev,Non-inhaler,product format,0
+0301020I0AAAIAI,TRUE,Ipratropium bromide 40microgram inhalation powder capsules,Non-inhaler,product format,0
+0301020S0AAAAAA,TRUE,Glycopyrronium bromide 55microg inhalation pdr caps with dev,Ellipta,product format,
+0301020I0AAACAC,TRUE,Ipratropium bromide 500micrograms/2ml neb liq ud vials,Non-inhaler,product format,0
+0301020T0BBAAAA,FALSE,Incruse Ellipta 55micrograms/dose dry powder inhaler,Ellipta,product format,
+0301011R0BGABAX,FALSE,Maxivent 2.5mg/2.5ml neb liq unit dose Steripoule vials,Non-inhaler,product format,0
+0301011R0BGACBD,FALSE,Maxivent 5mg/2.5ml neb liq unit dose Steripoule vials,Non-inhaler,product format,0
+0301011V0BDABAG,FALSE,Monovent 1.5mg/5ml syrup,Non-inhaler,product format,0
+0301011ABBBAAA0,FALSE,Trimbow 87microg/dose / 5microg/dose / 9microg/dose inh,Ellipta,product format,
+0301040W0AAAAAA,TRUE,Umeclidinium brom 65microg/Vilanterol 22microg/dose dry pdr,Ellipta,product format,
+0301030B0BFABAR,FALSE,Norphyllin SR 225mg tablets,Non-inhaler,product format,0
+0301030S0BDAAAJ,FALSE,Nuelin 125mg tablets,Non-inhaler,product format,0
+0301030S0BDABAG,FALSE,Nuelin 60mg/5ml liquid,Non-inhaler,product format,0
+0301030S0BDAEAL,FALSE,Nuelin SA 175mg tablets,Non-inhaler,product format,0
+0301030S0BDAFAN,FALSE,Nuelin SA 250 tablets,Non-inhaler,product format,0
+0301020T0AAAAAA,TRUE,Umeclidinium bromide 65micrograms/dose dry powder inhaler,Ellipta,product format,
+0301011E0BBAAAA,FALSE,Foradil 12microgram inhalation powder capsules with device,Foradil,product format,
+0301011E0AAAAAA,TRUE,Formoterol 12microgram inhalation pdr caps with device,Foradil,product format,
+0301040V0AAAAAA,TRUE,Aclidinium brom 396mcg/dose / Formoterol 11.8mcg/dose DP inh,Genuair,product format,1
+0301012S0AAAGAG,TRUE,Orciprenaline 10mg/5ml oral solution sugar free,Non-inhaler,product format,0
+0301012S0AAAFAF,TRUE,Orciprenaline 20mg tablets,Non-inhaler,product format,0
+0301020R0AAAAAA,TRUE,Aclidinium bromide 375micrograms/dose dry powder inhaler,Genuair,product format,1
+0301040V0BBAAAA,FALSE,Duaklir 340micrograms/dose / 12micrograms/dose Genuair,Genuair,product format,
+0301020R0BBAAAA,FALSE,Eklira 322micrograms/dose Genuair,Genuair,product format,
+0301020Q0BBAAAA,FALSE,Spiriva 18microgram inhalation pdr caps with HandiHaler,Handihaler,product format,
+0301020Q0BBABAB,FALSE,Spiriva 18microgram inhalation powder capsules,Handihaler,product format,
+0301020Q0AAAAAA,TRUE,Tiotropium bromide 18microgram inhalation pdr caps with dev,Handihaler,product format,
+0301030C0BCAAAE,FALSE,Phyllocontin Continus 225mg tablets,Non-inhaler,product format,0
+0301030C0BCABAC,FALSE,Phyllocontin Forte Continus 350mg tablets,Non-inhaler,product format,0
+0301030C0BCACAD,FALSE,Phyllocontin Paediatric Continus 100mg tablets,Non-inhaler,product format,0
+0301020Q0AAABAB,TRUE,Tiotropium bromide 18microgram inhalation powder capsules,Handihaler,product format,
+0301011R0BMAAAP,FALSE,Airomir 100micrograms/dose inhaler,MDI,product format,10
+0301011R0BZAAAP,FALSE,AirSalb 100micrograms/dose inhaler CFC free,MDI,product format,10
+0301011R0BYAAAP,FALSE,Asmavent 100micrograms/dose inhaler CFC free,MDI,product format,10
+0301020I0BGAAAF,FALSE,Respontin 250micrograms/1ml Nebules,Non-inhaler,product format,0
+0301020I0BGABAC,FALSE,Respontin 500micrograms/2ml Nebules,Non-inhaler,product format,0
+0301011E0BDAAAD,FALSE,Atimos Modulite 12micrograms/dose inhaler,MDI,product format,10
+0301020I0BBAAAA,FALSE,Atrovent 20micrograms/dose inhaler,MDI,product format,10
+0301020I0BBAJAN,FALSE,Atrovent 20micrograms/dose inhaler CFC free,MDI,product format,10
+0301011R0BIADAX,FALSE,Salamol 2.5mg/2.5ml neb liq Steri-Neb unit dose vials,Non-inhaler,product format,0
+0301011R0BIAEBD,FALSE,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials,Non-inhaler,product format,0
+0301011R0BUAABG,FALSE,Salapin 2mg/5ml syrup,Non-inhaler,product format,0
+0301020I0BBADAD,FALSE,Atrovent Forte 40micrograms/dose inhaler,MDI,product format,10
+0301040M0BCABAD,FALSE,Berodual N inhaler,MDI,product format,10
+0301011F0BBACAA,FALSE,Berotec 200micrograms/dose inhaler,MDI,product format,10
+0301011V0BBADAA,FALSE,Bricanyl 250micrograms/dose inhaler,MDI,product format,10
+0301011V0BBAFAF,FALSE,Bricanyl 250micrograms/dose spacer inhaler,MDI,product format,10
+0301040R0BBAAAA,FALSE,Combivent inhaler,MDI,product format,10
+0301040M0AAAAAA,TRUE,Fenoterol 100microg/dose / Ipratropium 40microg/dose inh,MDI,product format,10
+0301040M0AAADAD,TRUE,Fenoterol 50microg/Ipratropium brom 20microg/dose CFC free,MDI,product format,10
+0301011E0AAADAD,TRUE,Formoterol 12micrograms/dose inhaler CFC free,MDI,product format,37
+0301020I0BIAAAN,FALSE,Inhalvent 20micrograms/dose inhaler,MDI,product format,10
+0301020I0AAAAAA,TRUE,Ipratropium bromide 20micrograms/dose inhaler,MDI,product format,10
+0301011R0BVAAAX,FALSE,Salbutamol 2.5mg/2.5ml neb liq unit dose Steripoule vials,Non-inhaler,product format,0
+0301011R0AAAXAX,TRUE,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials,Non-inhaler,product format,0
+0301040R0AAACAC,TRUE,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq amp,Non-inhaler,product format,0
+0301040R0AAABAB,TRUE,Salbutamol 2.5mg/Ipratropium brom 500mcg/2.5ml neb liq vials,Non-inhaler,product format,0
+0301020I0AAANAN,TRUE,Ipratropium bromide 20micrograms/dose inhaler CFC free,MDI,product format,10
+0301020I0AAADAD,TRUE,Ipratropium bromide 40micrograms/dose inhaler,MDI,product format,10
+0301020I0BJAAAN,FALSE,Ipravent 20micrograms/dose inhaler CFC free,MDI,product format,10
+0301011U0BEAAAH,FALSE,Neovent 25micrograms/dose inhaler CFC free (Kent Pharm),MDI,product format,10
+0301011U0BDAAAH,FALSE,Neovent 25micrograms/dose inhaler CFC free (Teva),MDI,product format,10
+0301011R0AAAZAZ,TRUE,Salbutamol 2mg tablets,Non-inhaler,product format,0
+0301011R0AABGBG,TRUE,Salbutamol 2mg/5ml oral solution sugar free,Non-inhaler,product format,0
+0301020P0AAAAAA,TRUE,Oxitropium bromide 100micrograms/dose inhaler,MDI,product format,10
+0301020P0BBAAAA,FALSE,Oxivent 100micrograms/dose inhaler,MDI,product format,10
+0301012A0BCABAB,FALSE,Primatene Mist 220micrograms/dose inhaler,MDI,product format,10
+0301012A0BCACAC,FALSE,Primatene Mist 220micrograms/dose inhaler refill,MDI,product format,10
+0301011R0AABMBM,TRUE,Salbutamol 4mg modified-release capsules,Non-inhaler,product format,0
+0301011R0AABEBE,TRUE,Salbutamol 4mg modified-release tablets,Non-inhaler,product format,0
+0301011R0AABABA,TRUE,Salbutamol 4mg tablets,Non-inhaler,product format,0
+0301011R0AAAUAU,TRUE,Salbutamol 500micrograms/1ml solution for injection ampoules,Non-inhaler,product format,0
+0301011R0BVABBD,FALSE,Salbutamol 5mg/2.5ml neb liq unit dose Steripoule vials,Non-inhaler,product format,0
+0301011R0AABDBD,TRUE,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials,Non-inhaler,product format,0
+0301011R0AABVBV,TRUE,Salbutamol 5mg/50ml solution for infusion vials,Non-inhaler,product format,0
+0301011R0AABCBC,TRUE,Salbutamol 5mg/5ml solution for infusion ampoules,Non-inhaler,product format,0
+0301011R0AABBBB,TRUE,Salbutamol 5mg/ml nebuliser liquid,Non-inhaler,product format,0
+0301011R0AABPBP,TRUE,Salbutamol 8mg modified-release capsules,Non-inhaler,product format,0
+0301011R0AABFBF,TRUE,Salbutamol 8mg modified-release tablets,Non-inhaler,product format,0
+0301011R0BTAABX,FALSE,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,MDI,product format,10
+0301040R0BEAAAC,FALSE,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml amp (Actavis),Non-inhaler,product format,0
+0301040R0BDAAAC,FALSE,Salipraneb 0.5mg/2.5mg nebuliser soln 2.5ml ampoules (Arrow),Non-inhaler,product format,0
+0301011R0BTAAAQ,FALSE,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler,MDI,product format,10
+0301011R0BIAHAP,FALSE,Salamol 100micrograms/dose inhaler CFC free (Arrow),MDI,product format,10
+0301011R0BIAFAP,FALSE,Salamol 100micrograms/dose inhaler CFC free (Teva),MDI,product format,10
+0301011R0BDAEAP,FALSE,Salbulin 100micrograms/dose inhaler,MDI,product format,10
+0301040R0AAAAAA,TRUE,Salbutamol 100microg/dose / Ipratropium 20microg/dose inh,MDI,product format,10
+0301011R0AAAAAA,TRUE,Salbutamol 100micrograms/dose inhaler,MDI,product format,10
+0301011R0AAAPAP,TRUE,Salbutamol 100micrograms/dose inhaler CFC free,MDI,product format,10
+0301011U0AAACAC,TRUE,Salmeterol 25micrograms/dose inhaler,MDI,product format,10
+0301011U0AAAHAH,TRUE,Salmeterol 25micrograms/dose inhaler CFC free,MDI,product format,10
+0301011U0BBAFAH,FALSE,Serevent 25micrograms/dose Evohaler,MDI,product format,28
+0301011U0BBACAC,FALSE,Serevent 25micrograms/dose inhaler,MDI,product format,10
+0301030S0BHABAC,FALSE,Slo-Phyllin 125mg capsules,Non-inhaler,product format,0
+0301030S0BHACAD,FALSE,Slo-Phyllin 250mg capsules,Non-inhaler,product format,0
+0301030S0BHAAAB,FALSE,Slo-Phyllin 60mg capsules,Non-inhaler,product format,0
+0301011U0BGAAAH,FALSE,Soltel 25micrograms/dose inhaler CFC free,MDI,product format,10
+0301011V0AAAAAA,TRUE,Terbutaline 250micrograms/dose inhaler,MDI,product format,10
+0301011V0AAAFAF,TRUE,Terbutaline 250micrograms/dose inhaler with spacer,MDI,product format,10
+0301011R0BEAIAP,FALSE,Ventolin 100micrograms/dose Evohaler,MDI,product format,28
+0301011U0BFAAAH,FALSE,Vertine 25micrograms/dose inhaler CFC free,MDI,product format,10
+0301011R0BXABCC,FALSE,Salbulin Novolizer 100micrograms/dose inhalation pdr refill,Novolizer,product format,
+0301011R0BXAACB,FALSE,Salbulin Novolizer 100micrograms/dose inhalation powder,Novolizer,product format,
+0301011R0AACBCB,TRUE,Salbutamol 100microg/dose dry pdr inhalation cart with dev,Novolizer,product format,
+0301011R0AACCCC,TRUE,Salbutamol 100micrograms/dose dry pdr inhalation cartridge,Novolizer,product format,
+0301011V0AAAGAG,TRUE,Terbutaline 1.5mg/5ml oral solution sugar free,Non-inhaler,product format,0
+0301011V0AAAXAX,TRUE,Terbutaline 10mg/ml nebuliser liquid,Non-inhaler,product format,0
+0301011V0AAAKAK,TRUE,Terbutaline 2.5mg/5ml solution for injection ampoules,Non-inhaler,product format,0
+0301011Z0AAAAAA,TRUE,Olodaterol 2.5microg/dose soln for inhalation CFCfree,Respimat,product format,
+0301011Z0AAABAB,TRUE,Olodaterol 2.5micrograms/dose inhalation soln cart CFC free,Respimat,product format,
+0301011V0AAABAB,TRUE,Terbutaline 500micrograms/1ml inj ampoules,Non-inhaler,product format,0
+0301040X0BBABAB,FALSE,Spiolto Respimat 2.5microg/dose / 2.5microg/dose soln refill,Respimat,product format,
+0301011V0AAAHAH,TRUE,Terbutaline 5mg tablets,Non-inhaler,product format,0
+0301011V0AAADAD,TRUE,Terbutaline 5mg/2ml nebuliser liquid unit dose vials,Non-inhaler,product format,0
+0301011V0AAAIAI,TRUE,Terbutaline 7.5mg modified-release tablets,Non-inhaler,product format,0
+0301011V0AABABA,TRUE,Terbutaline 7.5mg/15ml inf pre-filled syringes,Non-inhaler,product format,0
+0301030S0BIAAAM,FALSE,Theo-Dur 200mg tablets,Non-inhaler,product format,0
+0301030S0BIABAP,FALSE,Theo-Dur 300mg tablets,Non-inhaler,product format,0
+0301030S0AAAHAH,TRUE,Theophylline 10mg/5ml oral liquid,Non-inhaler,product format,0
+0301040K0AAAGAG,TRUE,Theophylline 120mg / Ephedrine hydrochloride 11mg tablets,Non-inhaler,product format,0
+0301040J0AAAAAA,TRUE,Theophylline 120mg / Ephedrine sulfate 15mg tablets,Non-inhaler,product format,0
+0301030S0AABFBF,TRUE,Theophylline 120mg/5ml oral liquid,Non-inhaler,product format,0
+0301030S0AAACAC,TRUE,Theophylline 125mg modified-release capsules,Non-inhaler,product format,0
+0301030S0AAAJAJ,TRUE,Theophylline 125mg tablets,Non-inhaler,product format,0
+0301030S0AABBBB,TRUE,Theophylline 125mg/5ml oral suspension,Non-inhaler,product format,0
+0301030S0AAALAL,TRUE,Theophylline 175mg modified-release tablets,Non-inhaler,product format,0
+0301030S0AABGBG,TRUE,Theophylline 175mg/5ml oral liquid,Non-inhaler,product format,0
+0301030S0AAAMAM,TRUE,Theophylline 200mg modified-release tablets,Non-inhaler,product format,0
+0301030S0AAADAD,TRUE,Theophylline 250mg modified-release capsules,Non-inhaler,product format,0
+0301030S0AAANAN,TRUE,Theophylline 250mg modified-release tablets,Non-inhaler,product format,0
+0301030S0AABEBE,TRUE,Theophylline 250mg/5ml oral liquid,Non-inhaler,product format,0
+0301030S0AAAPAP,TRUE,Theophylline 300mg modified-release tablets,Non-inhaler,product format,0
+0301030S0AAA3A3,TRUE,Theophylline 300mg suppositories,Non-inhaler,product format,0
+0301030S0AAARAR,TRUE,Theophylline 400mg modified-release tablets,Non-inhaler,product format,0
+0301030S0AABKBK,TRUE,Theophylline 50mg/5ml oral solution,Non-inhaler,product format,0
+0301030S0AABLBL,TRUE,Theophylline 50mg/5ml oral suspension,Non-inhaler,product format,0
+0301030S0AABHBH,TRUE,Theophylline 5mg/5ml oral solution,Non-inhaler,product format,0
+0301030S0AAABAB,TRUE,Theophylline 60mg modified-release capsules,Non-inhaler,product format,0
+0301030S0AAAGAG,TRUE,Theophylline 60mg/5ml oral liquid,Non-inhaler,product format,0
+0301030S0AABJBJ,TRUE,Theophylline 75mg/5ml oral suspension,Non-inhaler,product format,0
+0301040X0BBAAAA,FALSE,Spiolto Respimat 2.5microg/dose/2.5microg/dose soln,Respimat,product format,
+0301020Q0BBACAC,FALSE,Spiriva Respimat 2.5microg/dose inhalation soln,Respimat,product format,
+0301020Q0BBADAE,FALSE,Spiriva Respimat 2.5microg/dose inhalation soln refill cart,Respimat,product format,
+0301011Z0BBAAAA,FALSE,Striverdi Respimat 2.5microg/dose inhalation soln,Respimat,product format,
+0301011Z0BBABAB,FALSE,Striverdi Respimat 2.5microg/dose inhalation soln refill,Respimat,product format,
+0301020Q0AAACAC,TRUE,Tiotropium brom 2.5microg/dose soln for inhalation CFCfree,Respimat,product format,
+0301040X0AAABAB,TRUE,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln,Respimat,product format,
+0301040X0AAAAAA,TRUE,Tiotropium brom 2.5microg/Olodaterol 2.5microg/dose soln&dev,Respimat,product format,
+0301020I0BFAAAF,FALSE,Tropiovent 250micrograms/1ml neb liq ud Steripoule vials,Non-inhaler,product format,0
+0301020I0BFABAC,FALSE,Tropiovent 500micrograms/2ml neb liq ud Steripoule vials,Non-inhaler,product format,0
+0301020Q0AAAEAE,TRUE,Tiotropium bromide 2.5micrograms/dose inhalation soln cart,Respimat,product format,
+0301040X0BCAAAA,FALSE,Yanimo Respimat 2.5microg/dose / 2.5microg/dose soln,Respimat,product format,
+0301011R0BEAPAV,FALSE,Ventolin 200microgram Rotacaps,Rotahaler,product format,
+0301030S0BKABAM,FALSE,Uniphyllin Continus 200mg tablets,Non-inhaler,product format,0
+0301030S0BKACAP,FALSE,Uniphyllin Continus 300mg tablets,Non-inhaler,product format,0
+0301030S0BKAAAR,FALSE,Uniphyllin Continus 400mg tablets,Non-inhaler,product format,0
+0301011R0BSAABM,FALSE,Ventmax SR 4mg capsules,Non-inhaler,product format,0
+0301011R0BSABBP,FALSE,Ventmax SR 8mg capsules,Non-inhaler,product format,0
+0301011R0BEAQAW,FALSE,Ventolin 400microgram Rotacaps,Rotahaler,product format,
+0301011V0BBARBB,FALSE,Bricanyl 500micrograms/dose Turbohaler,Turbohaler,product format,
+0301011E0AAACAC,TRUE,Formoterol 12micrograms/dose dry powder inhaler,Turbohaler,product format,
+0301011E0AAABAB,TRUE,Formoterol 6micrograms/dose dry powder inhaler,Turbohaler,product format,
+0301011E0BCABAC,FALSE,Oxis 12 Turbohaler,Turbohaler,product format,
+0301011R0BEANAX,FALSE,Ventolin 2.5mg Nebules,Non-inhaler,product format,0
+0301011E0BCAAAB,FALSE,Oxis 6 Turbohaler,Turbohaler,product format,
+0301020P0AAABAB,TRUE,Oxitropium bromide 100micrograms/dose BA inhaler,Turbohaler,product format,
+0301011R0BEAMBG,FALSE,Ventolin 2mg/5ml syrup,Non-inhaler,product format,0
+0301011V0AABBBB,TRUE,Terbutaline 500micrograms/dose dry powder inhaler,Turbohaler,product format,0.5
+0301011R0BEATAU,FALSE,Ventolin 500micrograms/1ml solution for injection ampoules,Non-inhaler,product format,0
+0301011R0BEAXBD,FALSE,Ventolin 5mg Nebules,Non-inhaler,product format,0
+0301011R0BEAUBC,FALSE,Ventolin 5mg/5ml solution for infusion ampoules,Non-inhaler,product format,0
+0301011R0BEARBB,FALSE,Ventolin 5mg/ml respirator solution,Non-inhaler,product format,0
+0301020Q0BCAAAD,FALSE,Braltus 10microgram inhalation pdr caps with Zonda inhaler,Zonda,product format,
+0301011R0BNAABE,FALSE,Volmax 4mg modified-release tablets,Non-inhaler,product format,0
+0301011R0BNABBF,FALSE,Volmax 8mg modified-release tablets,Non-inhaler,product format,0
+0301020Q0AAADAD,TRUE,Tiotropium bromide 10microgram inhalation pdr caps with dev,Zonda,product format,
+0302000N0BHAAAZ,FALSE,Aerivio Spiromax 50microg / 500microg/dose dry pdr inh,Spiromax,product format,
+0302000C0BEACAT,FALSE,AeroBec 100 Autohaler,Autohaler,product format,
+0302000C0BEAAAS,FALSE,AeroBec 50 Autohaler,Autohaler,product format,
+0302000C0BEABAU,FALSE,AeroBec Forte 250 Autohaler,Autohaler,product format,
+0302000N0BGABBF,FALSE,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler,,product format,
+0302000N0BGACBG,FALSE,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler,,product format,
+0302000N0BGAAAZ,FALSE,AirFluSal Forspiro 50microg / 500microg/dose dry pdr inh,,product format,
+0302000N0BJAABF,FALSE,Aloflute 25micrograms/dose / 125micrograms/dose inhaler,,product format,
+0302000N0BJABBG,FALSE,Aloflute 25micrograms/dose / 250micrograms/dose inhaler,,product format,
+0302000U0BBABAB,FALSE,Alvesco 160 inhaler,MDI,product format,
+0302000U0BBAAAA,FALSE,Alvesco 80 inhaler,MDI,product format,
+0302000C0BIAEBJ,FALSE,Asmabec 100 Clickhaler,Clickhaler,product format,
+0302000C0BIAFBK,FALSE,Asmabec 250 Clickhaler,Clickhaler,product format,
+0302000C0BIADBI,FALSE,Asmabec 50 Clickhaler,Clickhaler,product format,
+0302000R0BBAAAA,FALSE,Asmanex 200micrograms/dose Twisthaler,Twisthaler,product format,
+0302000R0BBACAC,FALSE,Asmanex 400micrograms/dose Twisthaler,Twisthaler,product format,
+0302000C0BFAEAT,FALSE,Beclazone 100 Easi-Breathe inhaler,Easi-breathe,product format,
+0302000C0BFABAB,FALSE,Beclazone 100 inhaler,MDI,product format,
+0302000C0BFAGAR,FALSE,Beclazone 200 inhaler,MDI,product format,
+0302000C0BFAFAU,FALSE,Beclazone 250 Easi-Breathe inhaler,Easi-breathe,product format,
+0302000C0BFACAC,FALSE,Beclazone 250 inhaler,MDI,product format,
+0302000C0BFADAS,FALSE,Beclazone 50 Easi-Breathe inhaler,Easi-breathe,product format,
+0302000C0BFAAAA,FALSE,Beclazone 50 inhaler,MDI,product format,
+0302000C0BBAAAC,FALSE,Becloforte 250micrograms/dose inhaler,MDI,product format,
+0302000C0BBADAQ,FALSE,Becloforte 400microgram disks,Diskhaler,product format,
+0302000C0BBACAJ,FALSE,Becloforte 400microgram disks with Diskhaler,Diskhaler,product format,
+0302000C0BMAAAE,FALSE,Beclometasone 100 Cyclocaps,Cyclocaps,product format,
+0302000C0AABHBH,TRUE,Beclometasone 100mcg/dose breath actuated inhaler CFC free,,product format,
+0302000C0AABYBY,TRUE,Beclometasone 100microg/Formoterol 6microg/dose dry pdr inh,,product format,
+0302000C0AABXBX,TRUE,Beclometasone 100microg/Formoterol 6microg/dose inh CFCfree,,product format,
+0302000C0AAAGAG,TRUE,Beclometasone 100microgram inhalation pdr blist with device,,product format,
+0302000C0AAALAL,TRUE,Beclometasone 100microgram inhalation powder blisters,,product format,
+0302000C0AAAEAE,TRUE,Beclometasone 100microgram inhalation powder capsules,,product format,
+0302000C0AAATAT,TRUE,Beclometasone 100micrograms/dose breath actuated inhaler,,product format,
+0302000C0AABJBJ,TRUE,Beclometasone 100micrograms/dose dry powder inhaler,,product format,
+0302000C0AAABAB,TRUE,Beclometasone 100micrograms/dose inhaler,,product format,
+0302000C0AABFBF,TRUE,Beclometasone 100micrograms/dose inhaler CFC free,,product format,
+0302000C0BMABAF,FALSE,Beclometasone 200 Cyclocaps,,product format,
+0302000C0AACACA,TRUE,Beclometasone 200microg/Formoterol 6microg/dose dry pdr inh,,product format,
+0302000C0AABZBZ,TRUE,Beclometasone 200microg/Formoterol 6microg/dose inh CFC free,,product format,
+0302000C0AAAHAH,TRUE,Beclometasone 200microgram inhalation pdr blist with device,,product format,
+0302000C0AAAKAK,TRUE,Beclometasone 200microgram inhalation powder blisters,,product format,
+0302000C0AAAFAF,TRUE,Beclometasone 200microgram inhalation powder capsules,,product format,
+0302000C0AABUBU,TRUE,Beclometasone 200micrograms/dose dry powder inhaler,,product format,
+0302000C0AAARAR,TRUE,Beclometasone 200micrograms/dose inhaler,,product format,
+0302000C0AABVBV,TRUE,Beclometasone 200micrograms/dose inhaler CFC free,,product format,
+0302000C0AAAUAU,TRUE,Beclometasone 250micrograms/dose breath actuated inhaler,,product format,
+0302000C0AABKBK,TRUE,Beclometasone 250micrograms/dose dry powder inhaler,,product format,
+0302000C0AAACAC,TRUE,Beclometasone 250micrograms/dose inhaler,,product format,
+0302000C0AABWBW,TRUE,Beclometasone 250micrograms/dose inhaler CFC free,,product format,
+0302000C0BMACAI,FALSE,Beclometasone 400 Cyclocaps,,product format,
+0302000C0AAAJAJ,TRUE,Beclometasone 400microgram inhalation pdr blist with device,,product format,
+0302000C0AAAQAQ,TRUE,Beclometasone 400microgram inhalation powder blisters,,product format,
+0302000C0AAAIAI,TRUE,Beclometasone 400microgram inhalation powder capsules,,product format,
+0302000C0AABSBS,TRUE,Beclometasone 400micrograms/dose dry powder inhaler,,product format,
+0302000C0AAASAS,TRUE,Beclometasone 50micrograms/dose breath actuated inhaler,,product format,
+0302000C0AABGBG,TRUE,Beclometasone 50micrograms/dose breath actuated inh CFC free,,product format,
+0302000C0AABIBI,TRUE,Beclometasone 50micrograms/dose dry powder inhaler,,product format,
+0302000C0AAAAAA,TRUE,Beclometasone 50micrograms/dose inhaler,,product format,
+0302000C0AABEBE,TRUE,Beclometasone 50micrograms/dose inhaler CFC free,,product format,
+0302000C0BHABAL,FALSE,Becodisks 100microgram,Diskhaler,product format,
+0302000C0BHAAAG,FALSE,Becodisks 100microgram with Diskhaler,Diskhaler,product format,
+0302000C0BHADAK,FALSE,Becodisks 200microgram,Diskhaler,product format,
+0302000C0BHACAH,FALSE,Becodisks 200microgram with Diskhaler,Diskhaler,product format,
+0302000C0BHAFAQ,FALSE,Becodisks 400microgram,Diskhaler,product format,
+0302000C0BHAEAJ,FALSE,Becodisks 400microgram with Diskhaler,Diskhaler,product format,
+0302000C0BCAHAB,FALSE,Becotide 100 inhaler,,product format,
+0302000C0BCACAE,FALSE,Becotide 100microgram Rotacaps,Rotahaler,product format,
+0302000C0BCAQAR,FALSE,Becotide 200 inhaler,,product format,
+0302000C0BCADAF,FALSE,Becotide 200microgram Rotacaps,Rotahaler,product format,
+0302000C0BCAGAI,FALSE,Becotide 400microgram Rotacaps,Rotahaler,product format,
+0302000C0BCAIAA,FALSE,Becotide 50 inhaler,,product format,
+0302000K0BFABAW,FALSE,Budelin Novolizer 200micrograms/dose inhalation pdr refill,Novolizer,product format,
+0302000K0BFAAAV,FALSE,Budelin Novolizer 200micrograms/dose inhalation powder,Novolizer,product format,
+0302000K0AAALAL,TRUE,Budesonide 100microg / Formoterol 6microg/dose dry pdr inh,,product format,
+0302000K0AAAKAK,TRUE,Budesonide 100micrograms/dose dry powder inhaler,,product format,
+0302000K0AAAZAZ,TRUE,Budesonide 100micrograms/dose inhaler CFC free,,product format,
+0302000K0AAAIAI,TRUE,Budesonide 1mg/2ml nebuliser liquid unit dose vials,,product format,
+0302000K0BEAAAR,FALSE,Budesonide 200 Cyclocaps,Cyclocaps,product format,
+0302000K0AAAMAM,TRUE,Budesonide 200mcg/dose / Formoterol 6mcg/dose dry powder inh,,product format,
+0302000K0AAAVAV,TRUE,Budesonide 200microg/dose dry pdr inhalation cart with dev,,product format,
+0302000K0AABBBB,TRUE,Budesonide 200microg / Formoterol 6microg/dose inh CFC free,,product format,
+0302000K0AAARAR,TRUE,Budesonide 200microgram inhalation powder capsules,,product format,
+0302000K0AAAWAW,TRUE,Budesonide 200micrograms/dose dry pdr inhalation cartridge,,product format,
+0302000K0AAAGAG,TRUE,Budesonide 200micrograms/dose dry powder inhaler,,product format,
+0302000K0AAADAD,TRUE,Budesonide 200micrograms/dose inhaler,,product format,
+0302000K0AABABA,TRUE,Budesonide 200micrograms/dose inhaler CFC free,,product format,
+0302000K0AAATAT,TRUE,Budesonide 200micrograms/dose inhaler with spacer,,product format,
+0302000K0BEABAS,FALSE,Budesonide 400 Cyclocaps,,product format,
+0302000K0AAAUAU,TRUE,Budesonide 400mcg/dose /Formoterol 12mcg/dose dry powder inh,,product format,
+0302000K0AAASAS,TRUE,Budesonide 400microgram inhalation powder capsules,,product format,
+0302000K0AAAHAH,TRUE,Budesonide 400micrograms/dose dry powder inhaler,,product format,
+0302000K0AAAJAJ,TRUE,Budesonide 500micrograms/2ml neb liq unit dose vials,,product format,
+0302000K0AAAAAA,TRUE,Budesonide 50micrograms/dose inhaler,,product format,
+0302000U0AAABAB,TRUE,Ciclesonide 160micrograms/dose inhaler CFC free,,product format,
+0302000U0AAAAAA,TRUE,Ciclesonide 80micrograms/dose inhaler CFC free,,product format,
+0302000C0BPABBF,FALSE,Clenil Modulite 100micrograms/dose inhaler,,product format,
+0302000C0BPACBV,FALSE,Clenil Modulite 200micrograms/dose inhaler,,product format,
+0302000C0BPADBW,FALSE,Clenil Modulite 250micrograms/dose inhaler,,product format,
+0302000C0BPAABE,FALSE,Clenil Modulite 50micrograms/dose inhaler,,product format,
+0302000N0BLABBF,FALSE,Combisal 25micrograms/dose / 125micrograms/dose inhaler,,product format,
+0302000N0BLACBG,FALSE,Combisal 25micrograms/dose / 250micrograms/dose inhaler,,product format,
+0302000N0BLAABE,FALSE,Combisal 25micrograms/dose / 50micrograms/dose inhaler,,product format,
+0302000K0BHAAAM,FALSE,DuoResp Spiromax 160microg/dose / 4.5microg/dose dry pdr inh,,product format,
+0302000K0BHABAU,FALSE,DuoResp Spiromax 320microg/dose / 9microg/dose dry pdr inh,,product format,
+0302000C0BNAABU,FALSE,Easyhaler Beclometasone 200micrograms/dose dry pdr inhaler,,product format,
+0302000K0BGAAAK,FALSE,Easyhaler Budesonide 100micrograms/dose dry powder inhaler,,product format,
+0302000K0BGABAG,FALSE,Easyhaler Budesonide 200micrograms/dose dry powder inhaler,,product format,
+0302000K0BGACAH,FALSE,Easyhaler Budesonide 400micrograms/dose dry powder inhaler,,product format,
+0302000C0BGABAB,FALSE,Filair 100 inhaler,,product format,
+0302000C0BGAAAA,FALSE,Filair 50 inhaler,,product format,
+0302000C0BGACAC,FALSE,Filair Forte 250micrograms/dose inhaler,,product format,
+0302000N0BBAVAV,FALSE,Flixotide 0.5mg/2ml Nebules,,product format,
+0302000N0BBADAD,FALSE,Flixotide 100microgram disks,,product format,
+0302000N0BBACAC,FALSE,Flixotide 100microgram disks with Diskhaler,,product format,
+0302000N0BBASAS,FALSE,Flixotide 100micrograms/dose Accuhaler,,product format,
+0302000N0BBAYBA,FALSE,Flixotide 125micrograms/dose Evohaler,,product format,
+0302000N0BBAFAF,FALSE,Flixotide 250microgram disks,,product format,
+0302000N0BBAEAE,FALSE,Flixotide 250microgram disks with Diskhaler,,product format,
+0302000N0BBATAT,FALSE,Flixotide 250micrograms/dose Accuhaler,,product format,
+0302000N0BBBABC,FALSE,Flixotide 250micrograms/dose Evohaler,,product format,
+0302000N0BBAGAG,FALSE,Flixotide 25micrograms/dose inhaler,,product format,
+0302000N0BBAWAW,FALSE,Flixotide 2mg/2ml Nebules,,product format,
+0302000N0BBAQAQ,FALSE,Flixotide 500microgram disks,,product format,
+0302000N0BBAPAP,FALSE,Flixotide 500microgram disks with Diskhaler,,product format,
+0302000N0BBAUAU,FALSE,Flixotide 500micrograms/dose Accuhaler,,product format,
+0302000N0BBABAB,FALSE,Flixotide 50microgram disks,,product format,
+0302000N0BBAAAA,FALSE,Flixotide 50microgram disks with Diskhaler,,product format,
+0302000N0BBARAR,FALSE,Flixotide 50micrograms/dose Accuhaler,,product format,
+0302000N0BBBBBH,FALSE,Flixotide 50micrograms/dose Evohaler,,product format,
+0302000N0AABFBF,TRUE,Fluticasone 125mcg/dose / Salmeterol 25mcg/dose inh CFC free,,product format,
+0302000N0AABPBP,TRUE,Fluticasone 125microg/Formoterol 5microg/dose BA inh CFCfree,,product format,
+0302000N0AABJBJ,TRUE,Fluticasone 125microg / Formoterol 5microg/dose inh CFC free,,product format,
+0302000N0AABABA,TRUE,Fluticasone 125micrograms/dose inhaler CFC free,,product format,
+0302000N0AABGBG,TRUE,Fluticasone 250mcg/dose / Salmeterol 25mcg/dose inh CFC free,,product format,
+0302000N0AABKBK,TRUE,Fluticasone 250microg / Formoterol 10microg/dose inh CFCfree,,product format,
+0302000N0AABCBC,TRUE,Fluticasone 250micrograms/dose inhaler CFC free,,product format,
+0302000N0AAAGAG,TRUE,Fluticasone 25micrograms/dose inhaler,,product format,
+0302000N0AAAWAW,TRUE,Fluticasone 2mg/2ml nebuliser liquid unit dose vials,,product format,
+0302000N0AAAVAV,TRUE,Fluticasone 500micrograms/2ml neb liq unit dose vials,,product format,
+0302000N0AABQBQ,TRUE,Fluticasone 50microg/Formoterol 5microg/dose BA inh CFC free,,product format,
+0302000N0AABLBL,TRUE,Fluticasone 50microg / Formoterol 5microg/dose inh CFC free,,product format,
+0302000N0AABHBH,TRUE,Fluticasone 50micrograms/dose inhaler CFC free,,product format,
+0302000N0AABEBE,TRUE,Fluticasone 50microg / Salmeterol 25microg/dose inh CFC free,,product format,
+0302000V0AAAAAA,TRUE,Fluticasone furoate 184microg/Vilanterol 22microg/dose,,product format,
+0302000V0AAABAB,TRUE,Fluticasone furoate 92microg/Vilanterol 22microg/dose,,product format,
+0302000N0AAAZAZ,TRUE,Fluticasone propion 500mcg/Salmeterol 50mcg/dose dry pdr inh,,product format,
+0302000N0AAACAC,TRUE,Fluticasone propionate100microg inhalation pdr blist,,product format,
+0302000N0AAADAD,TRUE,Fluticasone propionate 100microgram inhalation pdr blist,,product format,
+0302000N0AAASAS,TRUE,Fluticasone propionate 100micrograms/dose dry powder inhaler,,product format,
+0302000N0AAAXAX,TRUE,Fluticasone propionate 100microg/Salmeterol 50microg/dose,,product format,
+0302000N0AAAEAE,TRUE,Fluticasone propionate 250mcg inhalation pdr blist + dev,,product format,
+0302000N0AAAFAF,TRUE,Fluticasone propionate 250microgram inhalation pdr blist,,product format,
+0302000N0AAATAT,TRUE,Fluticasone propionate 250micrograms/dose dry powder inhaler,,product format,
+0302000N0AAAYAY,TRUE,Fluticasone propionate 250microg/Salmeterol 50microg/dose,,product format,
+0302000N0AAAPAP,TRUE,Fluticasone propionate 500microg inhalation pdr blist,,product format,
+0302000N0AAAQAQ,TRUE,Fluticasone propionate 500microgram inhalation pdr blist,,product format,
+0302000N0AAAUAU,TRUE,Fluticasone propionate 500micrograms/dose dry powder inhaler,,product format,
+0302000N0AAAAAA,TRUE,Fluticasone propionate 50microg inhalation pdr blist,,product format,
+0302000N0AAABAB,TRUE,Fluticasone propionate 50microgram inhalation pdr blist,,product format,
+0302000N0AAARAR,TRUE,Fluticasone propionate 50micrograms/dose dry powder inhaler,,product format,
+0302000N0BDAABJ,FALSE,Flutiform 125micrograms/dose / 5micrograms/dose inhaler,,product format,
+0302000N0BDABBK,FALSE,Flutiform 250micrograms/dose / 10micrograms/dose inhaler,,product format,
+0302000N0BDACBL,FALSE,Flutiform 50micrograms/dose / 5micrograms/dose inhaler,,product format,
+0302000N0BDADBP,FALSE,Flutiform K-haler 125microg/dose / 5microg/dose BA inhaler,,product format,
+0302000N0BDAEBQ,FALSE,Flutiform K-haler 50microg/dose / 5microg/dose BA inh,,product format,
+0302000K0BIABAM,FALSE,Fobumix Easyhaler 160microg / 4.5microg/dose dry pdr inh,Easyhaler,product format,
+0302000K0BIAAAU,FALSE,Fobumix Easyhaler 320microg/dose / 9microg/dose dry pdr inh,Easyhaler,product format,
+0302000K0BIADAL,FALSE,Fobumix Easyhaler 80microg/dose / 4.5microg/dose dry pdr inh,Easyhaler,product format,
+0302000C0BQAABX,FALSE,Fostair 100micrograms/dose / 6micrograms/dose inhaler,MDI,product format,
+0302000C0BQABBZ,FALSE,Fostair 200micrograms/dose / 6micrograms/dose inhaler,MDI,product format,
+0302000C0BRAABY,FALSE,Fostair NEXThaler 100microg/dose / 6microg/dose dry pdr inh,Nexthaler,product format,
+0302000C0BRABCA,FALSE,Fostair NEXThaler 200microg/dose / 6microg/dose dry pdr inh,Nexthaler,product format,
+0302000N0BKAAAY,FALSE,Fusacomb Easyhaler 50microg / 250microg/dose dry pdr inh,,product format,
+0302000N0BKABAZ,FALSE,Fusacomb Easyhaler 50microg / 500microg/dose dry pdr inh,,product format,
+0302000C0BSABBF,FALSE,Kelhale 100micrograms/dose inhaler,MDI,product format,
+0302000C0BSAABE,FALSE,Kelhale 50micrograms/dose inhaler,MDI,product format,
+0302000R0AAAAAA,TRUE,Mometasone 200micrograms/dose dry powder inhaler,,product format,
+0302000R0AAACAC,TRUE,Mometasone 400micrograms/dose dry powder inhaler,,product format,
+0302000K0BBAJAJ,FALSE,Pulmicort 0.5mg Respules,Non-inhaler,product format,0
+0302000K0BBAMAZ,FALSE,Pulmicort 100micrograms/dose inhaler CFC free,,product format,
+0302000K0BBAKAK,FALSE,Pulmicort 100 Turbohaler,,product format,
+0302000K0BBAGAI,FALSE,Pulmicort 1mg Respules,Non-inhaler,product format,0
+0302000K0BBADAD,FALSE,Pulmicort 200micrograms/dose inhaler,,product format,
+0302000K0BBANBA,FALSE,Pulmicort 200micrograms/dose inhaler CFC free,,product format,
+0302000K0BBALAT,FALSE,Pulmicort 200micrograms/dose inhaler with Nebuchamber,,product format,
+0302000K0BBAHAG,FALSE,Pulmicort 200 Turbohaler,,product format,
+0302000K0BBAIAH,FALSE,Pulmicort 400 Turbohaler,,product format,
+0302000K0BBAEAA,FALSE,Pulmicort LS 50micrograms/dose inhaler,,product format,
+0302000C0BLABBN,FALSE,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh,,product format,
+0302000C0BLABBJ,FALSE,Pulvinal Beclometasone Diprop 100microg/dose dry pdr inh,,product format,
+0302000C0BLAABU,FALSE,Pulvinal Beclometasone Diprop 200microg/dose dry pdr inh,,product format,
+0302000C0BLAABM,FALSE,Pulvinal Beclometasone Diprop 200microg/dose dry pdr inh,,product format,
+0302000C0BLACBS,FALSE,Pulvinal Beclometasone Diprop 400microg/dose dry pdr inh,,product format,
+0302000C0BLACBP,FALSE,Pulvinal Beclometasone Diprop 400microg/dose dry pdr inh,,product format,
+0302000C0BJADBH,FALSE,Qvar 100 Autohaler,,product format,
+0302000C0BJABBF,FALSE,Qvar 100 inhaler,,product format,
+0302000C0BJAFBH,FALSE,Qvar 100micrograms/dose Easi-Breathe inhaler,,product format,
+0302000C0BJACBG,FALSE,Qvar 50 Autohaler,,product format,
+0302000C0BJAABE,FALSE,Qvar 50 inhaler,,product format,
+0302000C0BJAEBG,FALSE,Qvar 50micrograms/dose Easi-Breathe inhaler,,product format,
+0302000V0BBAAAA,FALSE,Relvar Ellipta 184microg/dose / 22microg/dose dry pdr inh,,product format,
+0302000V0BBABAB,FALSE,Relvar Ellipta 92microg/dose / 22microg/dose dry pdr inh,,product format,
+0302000C0AAANAN,TRUE,Salbutamol 100microg/dose / Beclometasone 50microg/dose inh,,product format,
+0302000C0AABLBL,TRUE,Salbutamol 200microg/Beclometasone 100microg pdr caps,,product format,
+0302000C0AAAPAP,TRUE,Salbutamol 400microg/Beclometasone 200microg pdr caps,,product format,
+0302000N0BIAABF,FALSE,Sereflo 25micrograms/dose / 125micrograms/dose inhaler,,product format,
+0302000N0BIABBG,FALSE,Sereflo 25micrograms/dose / 250micrograms/dose inhaler,,product format,
+0302000N0BCAAAX,FALSE,Seretide 100 Accuhaler,Accuhaler,product format,
+0302000N0BCAEBF,FALSE,Seretide 125 Evohaler,Evohaler,product format,
+0302000N0BCABAY,FALSE,Seretide 250 Accuhaler,Accuhaler,product format,
+0302000N0BCAFBG,FALSE,Seretide 250 Evohaler,Evohaler,product format,
+0302000N0BCACAZ,FALSE,Seretide 500 Accuhaler,Accuhaler,product format,
+0302000N0BCADBE,FALSE,Seretide 50 Evohaler,Evohaler,product format,
+0302000N0BFAABF,FALSE,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler,MDI,product format,
+0302000N0BFABBG,FALSE,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler,MDI,product format,
+0302000C0BTACBF,FALSE,Soprobec 100micrograms/dose inhaler,,product format,
+0302000C0BTABBV,FALSE,Soprobec 200micrograms/dose inhaler,,product format,
+0302000C0BTADBW,FALSE,Soprobec 250micrograms/dose inhaler,,product format,
+0302000C0BTAABE,FALSE,Soprobec 50micrograms/dose inhaler,,product format,
+0302000N0BMAAAZ,FALSE,Stalpex 50microg/dose / 500microg/dose dry powder inh,,product format,
+0302000K0BDAAAL,FALSE,Symbicort 100/6 Turbohaler,Turbohaler,product format,
+0302000K0BDABAM,FALSE,Symbicort 200/6 Turbohaler,Turbohaler,product format,
+0302000K0BDADBB,FALSE,Symbicort 200microg/dose / 6microg/dose pressurised inh,MDI,product format,
+0302000K0BDACAU,FALSE,Symbicort 400/12 Turbohaler,Turbohaler,product format,
+0302000V0BCAAA0,FALSE,Trelegy Ellipta 92microg/55microg/22microg/dose dry pdr inh,Ellipta,product format,
+0302000C0BDAAAN,FALSE,Ventide inhaler,MDI,product format,
+0302000C0BDACBL,FALSE,Ventide Paediatric Rotacaps,Rotahaler,product format,1
+0302000C0BDABAP,FALSE,Ventide Rotacaps,Rotahaler,product format,1
