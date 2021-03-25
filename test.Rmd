@@ -1,0 +1,36 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r}
+ library(httr)
+ library(jsonlite)
+library(rlist)
+ query="bnf_code/?format=json&q=0501"
+ URL =paste0("https://openprescribing.net","/api/1.0/",query)
+ r <- GET(URL)
+ data =fromJSON(rawToChar(r$content))
+ 
+```
+
+```{r}
+
+ df <- data.frame(subset(data, type=='chemical'))
+colnames(df) <- c(1:length(df))
+df2<-data.frame(t(df))
+View(df2)
+```
+
+```{r}
+URL = "https://opendata.nhsbsa.net/api/3/action/datastore_search?resource_id=EPD_202010"
+ r <- GET(URL)
+ data =data.frame(fromJSON(rawToChar(r$content)))
+View(data)
+
+```
+
